@@ -81,7 +81,7 @@
     "glob": "^7.0.0",
     "if-node-version": "^1.0.0",
     "js-beautify": "^1.7.3",
-    "jshint": "^2.10.2",
+    "jshint": "^2.11.0",
     "json-schema-test": "^2.0.0",
     "karma": "^4.0.1",
     "karma-chrome-launcher": "^3.0.0",
